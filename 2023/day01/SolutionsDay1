@@ -1,0 +1,26 @@
+What is DevOps?
+DevOps is a methodology in the software development and IT industry. Used as a set of practices and tools, DevOps integrates and automates the work of software development and IT operations as a means for improving and shortening the systems development life cycle
+
+What is Automation?
+Automation is a term for technology applications where human input is minimized. This includes business process automation (BPA), IT automation, personal applications such as home automation and more.
+
+What is Automation in DevOps?
+DevOps automation is the addition of technology that performs tasks with reduced human assistance to processes that facilitate feedback loops between operations and development teams so that iterative updates can be deployed faster to applications in production.
+
+What does scaling in DevOps mean? 
+Scaling in DevOps is characterized as an automation-driven environment where developers or enterprises can adopt DevOps culture and choose the right technologies to scale their business growth.
+
+What is infrastructure?
+Is what enables a company to build and run the applications that underpin its business. It includes compute, network, workplace, data platform and edge capabilities.
+The two primary types of IT infrastructure are traditional and cloud infrastructure:
+1)Traditional infrastructure
+A traditional IT infrastructure is made up of the usual hardware and software components: facilities, data centers, servers, networking hardware desktop computers and enterprise application software solutions. Typically, this infrastructure setup requires more power, physical space and money than other infrastructure types. A traditional infrastructure is typically installed on-premises for company-only, or private, use.
+
+2)Cloud infrastructure
+A cloud computing IT infrastructure is similar to traditional infrastructure. However, end users can access the infrastructure via the internet, with the ability to use computing resources without installing on-premises through virtualization. Virtualization connects physical servers maintained by a service provider at any or many geographical locations. Then, it divides and abstracts resources, like storage, to make them accessible to users almost anywhere an internet connection can be made. Because cloud infrastructure is often public, it’s usually referred to as a public cloud.
+
+What is Infrastructure as a code?
+Infrastructure as Code is the management of networks, virtual machines, load balancers, and connection topology in a descriptive model. It uses the same versioning as a DevOps team uses for a source code. Like a key that only opens a single door, an IaC model generates the same environment every time it is applied. It is essential to the DevOps process and is used simultaneously with continuous delivery.  
+An example of how enterprises can use IaC is for software development. Programmers use IaC to create and launch sandbox applications. At the same time, QA professionals can run tests with perfect copies of product environments to test for errors. And then, when it’s time for deployment, you can push both infrastructure and code to production in one swift stroke. 
+
+Using IaC for cloud infrastructure management allows all actions that can be automated to be automated. IaC allows system components to be configured and provisioned with Terraform and Kubernetes, which can save time, money, and effort. IaC allows tasks from database backups to new feature releases to be done faster, better, and cheaper. 
